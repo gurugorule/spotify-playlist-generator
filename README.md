@@ -63,14 +63,14 @@ pip install --user -r requirements.txt
 2. Install all dependencies (`pip install -r requirements.txt`) *skip if already installed* 
 3. Set two environment variables, `CLIENT_ID`, `CLIENT_SECRET`and `REDIRECT_URI`
 ```bash
-FOR Linux/Mac
+commands for Linux/Mac
 
 export CLIENT_ID="your_client_id"
 export CLIENT_SECRET="your_client_secret"
 export REDIRECT_URI="http://localhost:8000"
 ```
 ```bash
-FOR Windows
+commands for Windows
 
 set CLIENT_ID="your_client_id"
 set CLIENT_SECRET="your_client_secret"

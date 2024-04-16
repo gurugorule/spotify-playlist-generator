@@ -60,7 +60,7 @@ pip install --user -r requirements.txt
    
 ### Step 4: Install Dependencies
 1. Ensure you have Python 3.6 or above installed.
-2. Install all dependencies (`pip install -r requirements.txt`)
+2. Install all dependencies (`pip install -r requirements.txt`) *skip if already installed* 
 3. Set two environment variables, `CLIENT_ID`, `CLIENT_SECRET`and `REDIRECT_URI`
 ```bash
 FOR Linux/Mac

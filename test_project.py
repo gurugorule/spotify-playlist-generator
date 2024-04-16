@@ -1,4 +1,4 @@
-from project import *
+from main import *
 import pytest
 
 def main():
